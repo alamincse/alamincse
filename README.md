@@ -31,7 +31,6 @@ I'm passionate about building scalable web applications, integrating AI and work
 ![Apache](https://img.shields.io/badge/Apache-FC6A0E?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ---
 
 ## About Me
@@ -63,7 +62,7 @@ I focus on **performance, scalability, and clean code** to ensure apps grow seam
 ## Projects Showcase  
 - [MVC App Node.js](https://github.com/alamincse/mvc-app-nodejs) – Custom Node.js MVC Framework  
 - [Food Delivery App](https://github.com/alamincse/food-delivery-app) – Laravel 12 Food Delivery APP  
-- [MVC App Node.js](https://github.com/alamincse/learnphp) – Custom Raw PHP APP like WordPress  
+- [Learnphp](https://github.com/alamincse/learnphp) – Custom Raw PHP APP like `WordPress`
 
 ---
 
@@ -71,13 +70,11 @@ I focus on **performance, scalability, and clean code** to ensure apps grow seam
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamincse&layout=compact&theme=tokyonight)  
 <!-- ![Most Used Languages](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['PHP','JavaScript','Blade','CSS','HTML','Vue'],datasets:[{data:[97.88,5.89,4.60,3.47,3.33,2.82]}]}}) -->
 
-
 ---
 
 ## Connect With Me   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaminphp)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cseal.amin.09@gmail.com)  
-
 
 
 ---
