@@ -19,13 +19,12 @@
 ---
 
 ### Software Engineer
-Specialist in **PHP, Laravel, Node.js, Express.js & Vue.js** | **API Expert** | Architecting Scalable Web Solutions | Advocate for Clean Code  
+Specialist in **PHP, Laravel, Node.js, Express.js & Vue.js** | **API Expert** | **Architecting Scalable Web Solutions** | **Advocate for Clean Code**
 
 ---
 
 ## About Me
-I'm a **Full-Stack Developer** passionate about building clean, scalable, and performant applications using **Laravel**, **Node.js**, **VueJS** and modern frontend frameworks.  
-I also enjoy working on tools that connect web technologies with **3D printing workflows**.
+I'm a **Full-Stack Developer** passionate about building clean, scalable, and performant applications using **Laravel**, **Node.js**, **VueJS** and modern frontend frameworks. I also enjoy working on tools that connect web technologies with **3D printing workflows**.
 
 ---
 
@@ -33,7 +32,7 @@ I also enjoy working on tools that connect web technologies with **3D printing w
 - **Backend:** PHP, CodeIgniter, Laravel, Smarty, Node.js, ExpressJS, REST APIs
 - **Frontend:** Vue.js, Three.js (3D rendering), JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, Vuetify, Sass, Less   
 - **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, AWS S3, XAMPP  
+- **DevOps:** Docker, AWS S3  
 - **Testing:** PHPUnit, unit & integration testing  
 - **Other:** Python integration for 3D model workflows, Ajax, JSON, jQuery, Smarty, Font Awesome 
 
