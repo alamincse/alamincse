@@ -69,12 +69,14 @@ I focus on **performance, scalability, and clean code** to ensure apps grow seam
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamincse&layout=compact&theme=tokyonight)  
+<!-- ![Most Used Languages](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['PHP','JavaScript','Blade','CSS','HTML','Vue'],datasets:[{data:[97.88,5.89,4.60,3.47,3.33,2.82]}]}}) -->
+
 
 ---
 
 ## Connect With Me   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaminphp)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cseal.amin.09@email.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cseal.amin.09@gmail.com)  
 
 
 
