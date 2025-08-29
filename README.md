@@ -1,4 +1,11 @@
-# Hi, I'm Al-Amin Sarker
+# Hi there, I'm Al-Amin Sarker
+**Full-Stack Developer** | **PHP**, **Laravel**, **Node.js**, **Vue.js Enthusiast** | **API Expert** | **Architecting Scalable Web Solutions** | **Advocate for Clean Code**  
+
+I'm passionate about building scalable web applications, integrating AI and working with modern technologies to solve real-world problems. 
+
+--- 
+
+## Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -24,23 +31,19 @@
 ![Apache](https://img.shields.io/badge/Apache-FC6A0E?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### Software Engineer
-Specialist in **PHP, Laravel, Node.js, Express.js & Vue.js** | **API Expert** | **Architecting Scalable Web Solutions** | **Advocate for Clean Code**
 
 ---
 
 ## About Me
-I'm a **Full-Stack Developer** passionate about building clean, scalable, and performant applications using **Laravel**, **Node.js**, **VueJS** and modern frontend frameworks. I also enjoy working on tools that connect web technologies with **3D printing workflows**.
+I'm a **Full-Stack Developer** passionate about building clean, scalable, and performant applications using **PHP**, **Laravel**, **Node.js**, **VueJS**. I also enjoy working on tools that connect web technologies with **3D printing workflows**. 
 
 ---
 
-## Skills
-- **Backend:** PHP, CodeIgniter, Laravel, Smarty, Node.js, ExpressJS, REST APIs
-- **Frontend:** Vue.js, Three.js (3D rendering), JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, Vuetify, Sass, Less   
-- **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, AWS S3  
+## Skills & Expertise
+- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js, REST APIs, Smarty 
+- **Frontend:** Vue.js, Vuetify, JavaScript (ES6+), Three.js (3D rendering), HTML5, CSS3, Bootstrap, TailwindCSS, Sass, Less  
+- **Databases:** MySQL, MongoDB, Redis
+- **DevOps & Cloud:** Docker, AWS S3, GitHub Actions, GitLab CI/CD, Nginx, Apache  
 - **Testing:** PHPUnit, unit & integration testing  
 - **Other:** Python integration for 3D model workflows, Ajax, JSON, jQuery, Smarty, Font Awesome 
 
@@ -56,5 +59,26 @@ I focus on **performance, scalability, and clean code** to ensure apps grow seam
 - Experimenting with **3D printing workflows** & integrations  
 
 ---
+
+## Projects Showcase  
+- [MVC App Node.js](https://github.com/alamincse/mvc-app-nodejs) – Custom Node.js MVC Framework  
+- [Food Delivery App](https://github.com/alamincse/food-delivery-app) – Laravel 12 Food Delivery APP  
+- [MVC App Node.js](https://github.com/alamincse/learnphp) – Custom Raw PHP APP like WordPress  
+
+---
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamincse&layout=compact&theme=tokyonight)  
+
+---
+
+## Connect With Me   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaminphp)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cseal.amin.09@email.com)  
+
+
+
+---
+
 
 *"Coding is more fun when we grow together!"*  
