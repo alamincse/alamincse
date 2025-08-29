@@ -62,7 +62,7 @@ I focus on **performance, scalability, and clean code** to ensure apps grow seam
 ## Projects Showcase  
 - [MVC App Node.js](https://github.com/alamincse/mvc-app-nodejs) – Custom Node.js MVC Framework  
 - [Food Delivery App](https://github.com/alamincse/food-delivery-app) – Laravel 12 Food Delivery APP  
-- [Learnphp](https://github.com/alamincse/learnphp) – Custom Raw PHP APP like `WordPress`
+- [Learnphp](https://github.com/alamincse/learnphp) – Custom Raw PHP CMS like `WordPress`
 
 ---
 
