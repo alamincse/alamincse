@@ -39,8 +39,8 @@ I'm a **Full-Stack Developer** passionate about building clean, scalable, and pe
 ---
 
 ## Skills & Expertise
-- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js, REST APIs, Smarty 
-- **Frontend:** Vue.js, Vuetify, JavaScript (ES6+), Three.js (3D rendering), HTML5, CSS3, Bootstrap, TailwindCSS, Sass, Less  
+- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js, REST APIs, Livewire, Smarty 
+- **Frontend:** Vue.js, Vuetify, Inertia.js, Alpine.js, JavaScript (ES6+), Three.js (3D rendering), HTML5, CSS3, Bootstrap, TailwindCSS, Sass, Less  
 - **Databases:** MySQL, MongoDB, Redis
 - **DevOps & Cloud:** Docker, AWS S3, GitHub Actions, GitLab CI/CD, Nginx, Apache  
 - **Testing:** PHPUnit, unit & integration testing  
